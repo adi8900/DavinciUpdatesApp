@@ -151,6 +151,25 @@
             "donate_buymeacoffee_link": "https://www.buymeacoffee.com/ArixElo",
             "tg_author": "https://t.me/ArixElo",
             "tg_group": "https://t.me/arixelogroup"
+        },
+         "8": {
+            "author": "Adi",
+            "rom_name": "DerpFest",
+            "rom_image": "https://telegra.ph/file/cd361b3d2b206c5fc1593.jpg",
+            "android_version": "11.0",
+            "build_date": "2021-01-12",
+            "rom_version": "-",
+            "rom_codename": "-",
+            "changelog_link": "https://telegra.ph/DerpFest-12-01-2021-01-12",
+            "official": true,
+            "download_link": "https://sourceforge.net/projects/derpfest/files/davinci/DerpFest-11-Official-Alpha-davinci-20210112.zip/download",
+            "download_vanilla_link": "-",
+            "mirror_link": "-",
+            "mirror_vanilla_link": "-",
+            "donate_paypal_link": "-",
+            "donate_buymeacoffee_link": "-",
+            "tg_author": "https://t.me/adi20_01",
+            "tg_group": "https://t.me/adidavinci1",
         }
     }
 }
